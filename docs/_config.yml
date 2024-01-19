@@ -1,0 +1,8 @@
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin: "dark"
+name: HoneyCutCoffee
+title: HoneyCutCoffee
+include: ["_main"]
+description: >
+    HoneyCutCoffee
+plugins: ["jekyll-include-cache", "jekyll-feed"]
