@@ -1,13 +1,8 @@
-remote_theme: "zerostaticthemes/jekyll-serif-theme@gh-pages"
-baseurl: "/jekyll-serif-theme/"
+baseurl: '/jekyll-serif-theme/'
 permalink: pretty
+title: 'Jekyll Serif'
 
-name: HoneycutCoffee
-title: HoneycutCoffee
-
-include: ["_main"]
-description: >
-    HoneycutCoffee
+google_analytics_id: ""
 
 homepage:
   show_call_box: true
@@ -43,3 +38,15 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
