@@ -1,8 +1,9 @@
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+baseurl: "/jekyll-serif-theme/"
+remote_theme: "zerostaticthemes/jekyll-serif-theme@v1.4"
 minimal_mistakes_skin: "dark"
-name: HoneyCutCoffee
-title: HoneyCutCoffee
+name: HoneycutCoffee
+title: HoneycutCoffee
 include: ["_main"]
 description: >
-    HoneyCutCoffee
+    HoneycutCoffee
 plugins: ["jekyll-include-cache", "jekyll-feed"]
