@@ -1,6 +1,6 @@
 ---
 title: Honeycut Coffee
-layout:  home
+layout: home
 description: Coffee
 excerpt: >
   Honeycut Coffee
