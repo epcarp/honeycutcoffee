@@ -1,4 +1,3 @@
-baseurl: "/jekyll-serif-theme/"
 remote_theme: "zerostaticthemes/jekyll-serif-theme@v1.4"
 minimal_mistakes_skin: "dark"
 name: HoneycutCoffee
