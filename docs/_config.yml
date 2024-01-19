@@ -1,4 +1,4 @@
-remote_theme: "zerostaticthemes/jekyll-serif-theme@v1.4"
+remote_theme: "zerostaticthemes/jekyll-serif-theme@gh-pages"
 baseurl: "/jekyll-serif-theme/"
 name: HoneycutCoffee
 title: HoneycutCoffee
