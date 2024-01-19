@@ -5,4 +5,5 @@ title: HoneycutCoffee
 include: ["_main"]
 description: >
     HoneycutCoffee
-plugins: ["jekyll-include-cache", "jekyll-feed"]
+plugins: 
+    - jekyll-environment-variables
