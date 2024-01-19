@@ -1,8 +1,9 @@
 ---
-title: Home
-layout: splash 
+title: Honeycut Coffee
+layout:  home
+description: Coffee
 excerpt: >
-  HoneyCutCoffee
+  Honeycut Coffee
 ---
 
-Coming soon
+Honeycut Coffee Coming soon!
